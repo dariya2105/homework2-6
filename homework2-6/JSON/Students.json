@@ -1,0 +1,63 @@
+
+[
+    {
+        "studentName": "Dariya",
+        "studentSurname": "Kalmyrzaeva",
+        "studentImageView": "heart"
+    },
+    
+    {
+        "studentName": "Erbol",
+        "studentSurname": "Karmyshakov",
+        "studentImageView": "star"
+    },
+    
+    {
+        "studentName": "Isa",
+        "studentSurname": "Melsov",
+        "studentImageView": "circle"
+    },
+    
+    {
+        "studentName": "Edil Uulu",
+        "studentSurname": "Maksat",
+        "studentImageView": "square"
+    },
+    
+    {
+        "studentName": "Syimyk",
+        "studentSurname": "Aseiinov",
+        "studentImageView": "person"
+    },
+    
+    {
+        "studentName": "Kim",
+        "studentSurname": "Kardashian",
+        "studentImageView": "car"
+    },
+    
+    {
+        "studentName": "Nicki",
+        "studentSurname": "Minaj",
+        "studentImageView": "house"
+    },
+    
+    {
+        "studentName": "Ariana",
+        "studentSurname": "Grande",
+        "studentImageView": "triangle"
+    },
+    
+    {
+        "studentName": "Brad",
+        "studentSurname": "Pitt",
+        "studentImageView": "trash"
+    },
+    
+    {
+        "studentName": "Vin",
+        "studentSurname": "Diesel",
+        "studentImageView": "rhombus"
+    }
+]
+ 
